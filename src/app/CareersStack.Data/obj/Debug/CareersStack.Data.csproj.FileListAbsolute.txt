@@ -1,0 +1,5 @@
+c:\users\carlo\documents\visual studio 2015\Projects\CareersStack\src\app\CareersStack.Data\bin\Debug\CareersStack.Data.dll
+c:\users\carlo\documents\visual studio 2015\Projects\CareersStack\src\app\CareersStack.Data\bin\Debug\CareersStack.Data.pdb
+c:\users\carlo\documents\visual studio 2015\Projects\CareersStack\src\app\CareersStack.Data\obj\Debug\CareersStack.Data.csprojResolveAssemblyReference.cache
+c:\users\carlo\documents\visual studio 2015\Projects\CareersStack\src\app\CareersStack.Data\obj\Debug\CareersStack.Data.dll
+c:\users\carlo\documents\visual studio 2015\Projects\CareersStack\src\app\CareersStack.Data\obj\Debug\CareersStack.Data.pdb

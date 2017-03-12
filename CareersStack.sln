@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareersStack.Tests", "src\t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareersStack.Core", "src\app\CarrersStack.Core\CareersStack.Core.csproj", "{E119160E-BD13-44C0-8764-8DB7AABAA358}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareersStack.Data", "src\app\CareersStack.Data\CareersStack.Data.csproj", "{45E8628E-A7FA-4E4E-ADEC-4FE44F8EA471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareersStack.Api", "src\app\CareersStack.Api\CareersStack.Api.csproj", "{08BF2642-6522-42CB-9F28-317B6F6AE47D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{E119160E-BD13-44C0-8764-8DB7AABAA358}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E119160E-BD13-44C0-8764-8DB7AABAA358}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E119160E-BD13-44C0-8764-8DB7AABAA358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E8628E-A7FA-4E4E-ADEC-4FE44F8EA471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E8628E-A7FA-4E4E-ADEC-4FE44F8EA471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E8628E-A7FA-4E4E-ADEC-4FE44F8EA471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E8628E-A7FA-4E4E-ADEC-4FE44F8EA471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08BF2642-6522-42CB-9F28-317B6F6AE47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BF2642-6522-42CB-9F28-317B6F6AE47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BF2642-6522-42CB-9F28-317B6F6AE47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BF2642-6522-42CB-9F28-317B6F6AE47D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
