@@ -1,0 +1,5 @@
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\CarrersStack\src\app\CarrersStack.Core\bin\Debug\CarrersStack.Core.dll
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\CarrersStack\src\app\CarrersStack.Core\bin\Debug\CarrersStack.Core.pdb
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\CarrersStack\src\app\CarrersStack.Core\obj\Debug\CareersStack.Core.csprojResolveAssemblyReference.cache
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\CarrersStack\src\app\CarrersStack.Core\obj\Debug\CarrersStack.Core.dll
+C:\Users\carlo\Documents\Visual Studio 2015\Projects\CarrersStack\src\app\CarrersStack.Core\obj\Debug\CarrersStack.Core.pdb
